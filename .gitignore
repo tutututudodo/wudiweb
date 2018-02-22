@@ -1,0 +1,84 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Explore
+ @tutututudodo
+ Sign out
+ Watch 99
+  Star 784  Fork 1,519 michaelliao/awesome-python3-webapp
+ Code  Issues 13  Pull requests 17  Projects 0  Wiki  Insights
+Branch: day-01 Find file Copy pathawesome-python3-webapp/.gitignore
+d3cbf88  on 21 May 2015
+@michaelliao michaelliao add gitignore
+1 contributor
+RawBlameHistory     
+55 lines (46 sloc)  505 Bytes
+*.py[cod]
+
+test.db
+test.txt
+sina.html
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+######################
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+dist
+MANIFEST
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
